@@ -16,7 +16,7 @@ iii)	Band pass filter
 
 ---
 
-## 6 A :- LOW PASS FILTER**
+## 6 A :- LOW PASS FILTER
 
 **DATE:**  27-09-2025
 
