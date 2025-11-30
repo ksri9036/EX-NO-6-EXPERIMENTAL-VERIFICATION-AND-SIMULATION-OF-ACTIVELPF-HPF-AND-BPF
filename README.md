@@ -183,12 +183,15 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 2 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors |10K,38.8K,7.9K,0.01uf | 1 |
+| 6 | Resistors |15K,38.8K,7.9K,0.01uf | 1 |
 | 7 | Connecting ires and probes | As required | — |
 
 
 ## CIRCUIT DIAGRAM
 
+<img width="1280" height="767" alt="image" src="https://github.com/user-attachments/assets/56358c2f-5fab-4323-a9c7-5f9bc8e87ca9" />
+
+<img width="1175" height="618" alt="image" src="https://github.com/user-attachments/assets/700202c5-24e2-4b88-8115-a2f3a6c20c96" />
 
 
 ## MODEL GRAPH
@@ -234,9 +237,9 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-
-
 <img width="1280" height="946" alt="image" src="https://github.com/user-attachments/assets/89fe0a1a-5bfa-4d15-a042-9fc427c21298" />
+
+<img width="1901" height="441" alt="image" src="https://github.com/user-attachments/assets/28dd2968-6247-4539-82e4-88fc8311d3da" />
 
 ---
 ##RESULT:
