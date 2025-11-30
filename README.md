@@ -158,7 +158,7 @@ PROCEDURE - ( HPF):
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-<img width="1280" height="888" alt="image" src="https://github.com/user-attachments/assets/3c2c33c6-3091-4c92-b85e-317ca80dde48" />
+<img width="1280" height="962" alt="image" src="https://github.com/user-attachments/assets/5d037821-9312-48bd-8e71-7784d2c985e0" />
 
 ---
 
@@ -225,25 +225,15 @@ PROCEDURE:BAND PASS FILTER
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1080" height="1118" alt="image" src="https://github.com/user-attachments/assets/6ad3e289-ca8b-4f32-9bf2-b79fa5d5f69d" />
 
 ---
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
+
+
+
+<img width="1280" height="946" alt="image" src="https://github.com/user-attachments/assets/89fe0a1a-5bfa-4d15-a042-9fc427c21298" />
 
 ---
 ##RESULT:
