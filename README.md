@@ -6,8 +6,7 @@
 ---
 
 ## AIM
-            
-**DATE:**  
+           
          
 ---
 
@@ -35,12 +34,12 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 2 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1.6K,10K,0.1 µF | 1 |
+| 6 | Resistors | 1.5K,15K,0.1 µF | 1 |
 | 7 | Connecting wires and probes | As required | — |
 
 ---
 ## CIRCUIT DIAGRAM
-<img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
+<img width="1600" height="1338" alt="image" src="https://github.com/user-attachments/assets/d189a9d3-f8f7-4a42-8e59-bab88200ca01" />
 
 
 ## MODEL GRAPH
@@ -76,25 +75,13 @@ PROCEDURE - (LPF):
 
 ## TABULATION
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
+<img width="1583" height="1600" alt="image" src="https://github.com/user-attachments/assets/d994a3e2-9778-4179-9a31-397eab35c110" />
+
 
 ---
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
+
 
 ---
 
@@ -122,8 +109,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-<img width="887" height="486" alt="image" src="https://github.com/user-attachments/assets/907a1395-28d4-406f-ac09-96c4e060587e" />
-
+blob:https://web.whatsapp.com/45ec6805-4800-4641-93aa-32af536b6669
 
 ## MODEL GRAPH
 
