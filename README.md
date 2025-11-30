@@ -39,7 +39,9 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-<img width="1600" height="1338" alt="image" src="https://github.com/user-attachments/assets/d189a9d3-f8f7-4a42-8e59-bab88200ca01" />
+<img width="1280" height="1060" alt="image" src="https://github.com/user-attachments/assets/116b5190-e1a9-4fb0-aa14-4ccb6fb6fab6" />
+
+<img width="1280" height="1005" alt="image" src="https://github.com/user-attachments/assets/c1f42f8d-8f76-4343-9578-92097e08fb46" />
 
 
 ## MODEL GRAPH
@@ -82,6 +84,9 @@ PROCEDURE - (LPF):
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
+<img width="1280" height="777" alt="image" src="https://github.com/user-attachments/assets/749e3f32-e9fd-4838-a638-871558e5debc" />
+
+<img width="1280" height="343" alt="image" src="https://github.com/user-attachments/assets/fc4f6c52-ede2-4f11-a277-5b4b10cc0810" />
 
 ---
 
@@ -109,7 +114,9 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-blob:https://web.whatsapp.com/45ec6805-4800-4641-93aa-32af536b6669
+<img width="1333" height="964" alt="image" src="https://github.com/user-attachments/assets/a34f3660-3def-4d26-9f21-0caf48c10ccc" />
+
+
 
 ## MODEL GRAPH
 
@@ -145,25 +152,12 @@ PROCEDURE - ( HPF):
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1600" height="1372" alt="image" src="https://github.com/user-attachments/assets/4739d979-0c44-45ae-a78f-02c55727cf44" />
+
 
 ---
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
 
 ---
 
