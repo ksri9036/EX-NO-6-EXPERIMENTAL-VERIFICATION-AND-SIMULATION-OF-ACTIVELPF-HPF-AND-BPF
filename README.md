@@ -34,7 +34,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 2 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1.5K,15K,0.1 µF | 1 |
+| 6 | Resistors | 1.5K,10K,5.86k,0.1 µF | 1 |
 | 7 | Connecting wires and probes | As required | — |
 
 ---
@@ -84,11 +84,10 @@ PROCEDURE - (LPF):
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-<img width="1280" height="777" alt="image" src="https://github.com/user-attachments/assets/749e3f32-e9fd-4838-a638-871558e5debc" />
+<img width="1280" height="930" alt="image" src="https://github.com/user-attachments/assets/9f577f5b-419c-467b-82b9-de6eca936a85" />
 
-<img width="1280" height="343" alt="image" src="https://github.com/user-attachments/assets/fc4f6c52-ede2-4f11-a277-5b4b10cc0810" />
+<img width="1903" height="446" alt="image" src="https://github.com/user-attachments/assets/3366455d-8da4-4017-8844-a3a29afefac4" />
 
----
 
  ## 6 B HIGH PASS FILTER
 
@@ -108,7 +107,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 2 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1.6K,10K,5.86K, 0.1 µF | 1 |
+| 6 | Resistors | 1.5K,10K,5.86K, 0.1 µF | 1 |
 | 7 | Connecting wires and probes | As required | — |
 
 
@@ -159,6 +158,8 @@ PROCEDURE - ( HPF):
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
+<img width="1280" height="888" alt="image" src="https://github.com/user-attachments/assets/3c2c33c6-3091-4c92-b85e-317ca80dde48" />
+
 ---
 
  ## 6C Band Pass Filter
@@ -185,7 +186,7 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 ## CIRCUIT DIAGRAM
 
-<img width="1068" height="446" alt="image" src="https://github.com/user-attachments/assets/ee37b95a-05ea-448c-9102-111e071e41e8" />
+
 
 ## MODEL GRAPH
 
